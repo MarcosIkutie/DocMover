@@ -56,3 +56,10 @@ Conta AWS com permissões para acessar e enviar arquivos ao bucket S3 configurad
 
 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias, correções ou novas funcionalidades.
+
+
+
+🛡️ Este projeto está protegido sob a licença Creative Commons CC BY-NC-SA 4.0.  
+Uso comercial requer autorização.  
+[Mais informações sobre a licença.](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR)
+
